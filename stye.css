@@ -1,0 +1,55 @@
+body {
+    background-color: grey;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color:aqua;
+}
+
+h2 {
+    text-align: center;
+    color:aquamarine;
+}
+
+div.container {
+
+    text-align: center;
+
+}
+
+
+ol.myOL {
+text-align: left;
+display: inline-block;
+color: aqua;
+
+}
+
+li {
+    font-weight: bold;
+}
+
+.buttondiv {
+    text-align: center;
+     }
+
+ .btn {
+
+    background-color: aqua;
+    color: black;
+    border-radius: 20px;
+    padding: 10px 10px;
+    margin: 10px;
+    font-size: 15px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    border: 2px solid rgb(255, 255, 255);
+    
+}
